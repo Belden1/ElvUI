@@ -1,0 +1,11 @@
+## Interface: 30300
+## Author: Blazeflack
+## Version: 3.20
+## Title: |cff1784d1E|r|cffe5e3e3lvUI|r |cff1784d1C|r|cffe5e3e3hannel|r |cff1784d1A|r|cffe5e3e3lerts|r
+## Notes: Adds options to play a customizable sound when messages are received in guild chat, officer chat or in either of the 10 numbered channels.
+## RequiredDeps: ElvUI
+
+locales.lua
+media\sharedmedia.lua
+config.lua
+core.lua
